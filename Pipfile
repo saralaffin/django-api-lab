@@ -7,11 +7,11 @@ verify_ssl = true
 
 [packages]
 django = "*"
-psycopg2-binary = "*"
 djangorestframework = "*"
 django-extensions = "*"
 djangorestframework-simplejwt = "*"
 gunicorn = "*"
+psycopg2-binary = "*"
 django-heroku = "*"
 
 [requires]
